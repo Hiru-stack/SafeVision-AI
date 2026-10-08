@@ -65,6 +65,9 @@ The final converted dataset contained approximately:
 - 611 training images
 - 153 validation images
 
+## Live Demo
+https://hiru-stack.github.io/SafeVision-AI/
+
 ## Project Workflow
 
 ```text
@@ -91,3 +94,6 @@ Browser-Based Detection
 SafeVision AI Web Interface
 
 - Hirusha Jayasundara
+
+
+
